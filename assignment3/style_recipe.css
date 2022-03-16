@@ -1,0 +1,73 @@
+body {
+    background: #F55C47;
+}
+.center{
+    color:#FFF0E5 ;
+    font-family: 'Autour One';
+    letter-spacing: 0.17em;
+    text-align: center
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 20px;
+}
+hr{
+    width: 1500px;
+    height: 5px;
+    background: #272525;
+    border: 3px solid #272525;
+}
+#cinnamon1{
+    border-radius: 87px;
+    width: 25%;
+}
+.introduction{
+    font-size: 12px;
+}
+h3{
+    font-size: 20px;
+    background-color: #272525;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#cinnamon2{
+    border-radius: 87px;
+    width: 32%;
+    margin-left: 150px;
+    
+}
+.flexbox{
+    display: flex;
+}
+ul.ingredient,ol.ingredient{
+    color:#FFF0E5 ;
+    font-family: 'Autour One';
+    letter-spacing: 0.17em;
+    font-weight: bold;
+}
+ul.detail{
+    font-weight: normal;
+    font-size: 12px;
+    color:#4F1109;
+}
+#cinnamon3{
+    width: 20%;
+    border-radius: 43px;
+    margin-left: 165px;
+}
+.flex_container{
+    display: flex;
+    justify-content: space-around;
+}
+#cinnamon4,#cinnamon5,#cinnamon6{
+    width: 185px;
+    height: 185px;
+    border-radius: 32px;
+}
+
+
+
+
+  
